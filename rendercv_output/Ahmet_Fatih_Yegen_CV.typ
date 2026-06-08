@@ -95,7 +95,7 @@
   [
 = Ahmet Fatih Yegen
 
-  #headline([Software Engineer | .NET & Full-Stack Developer])
+  #headline([Software Engineer | .NET, Full-Stack & Automation Developer])
 
 #connections(
   [Istanbul, Türkiye],
@@ -111,7 +111,7 @@
 
 == Summary
 
-Results-oriented Software Engineer with a solid background in Electrical and Electronics Engineering. Proven track record in designing robust .NET Core backends, optimizing databases, and building responsive JavaScript\/TypeScript applications (React, React Native, Next.js). Adept at workflow automation, robotics integration, and leveraging LLM APIs to drive operational efficiency and digital transformation.
+Results-oriented Software Engineer with a solid background in Electrical and Electronics Engineering. Proven track record in designing robust .NET Core backends, optimizing relational databases, and building responsive JavaScript\/TypeScript applications (React, Next.js, SvelteKit). Adept at workflow automation, industrial robotics integration, and leveraging LLM APIs to drive operational efficiency and digital transformation.
 
 == Experience
 
@@ -129,7 +129,7 @@ Results-oriented Software Engineer with a solid background in Electrical and Ele
 
     - Resolved persistent server-side CCTV camera system failures by deploying and configuring the open-source AgentDVR platform, improving surveillance uptime by 40\%.
 
-    - Designed and implemented local automation tools using Python to streamline factory production monitoring and reporting workflows.
+    - Engineered and deployed custom Python automation scripts to streamline factory production monitoring, reducing manual reporting workflows.
 
   ],
 )
@@ -227,25 +227,28 @@ Results-oriented Software Engineer with a solid background in Electrical and Ele
   ],
 )
 
-== Education
+== Projects
 
-#education-entry(
+#regular-entry(
   [
-    #strong[42 Istanbul], BS in Intensive Software Engineering Curriculum Software Engineering -- Istanbul, Türkiye
+    #strong[Advanced Modular IoT & Web Architecture]
 
   ],
   [
-    Nov 2023 – Nov 2025
+    Feb 2026 – present
 
-  ],
-  degree-column: [
-    #strong[BS]
   ],
   main-column-second-row: [
-    - Mastered rigorous peer-to-peer software development projects specializing in C programming, memory management, BASH scripting, and system-level data structures.
+    - Architected and deployed modern web platforms utilizing SvelteKit, Next.js, and Drizzle ORM, integrating secure session hydration with Better Auth architectures.
+
+    - Engineered production-ready IoT communication layers utilizing MQTT, Modbus, Node-RED, and n8n pipelines to orchestrate real-time hardware data collection.
+
+    - Designed modular firmware leveraging C++ for ESP8266\/NodeMCU systems, implementing high-precision ADS1115 ADC data processing and OLED diagnostics dashboards.
 
   ],
 )
+
+== Education
 
 #education-entry(
   [
@@ -269,7 +272,25 @@ Results-oriented Software Engineer with a solid background in Electrical and Ele
 
 #education-entry(
   [
-    #strong[Warsaw University Of Technology], BS in Erasmus - Electrical Engineering & Electronics and Information Technology -- Warsaw, Poland
+    #strong[42 Istanbul], Cert. in Intensive Software Engineering Curriculum -- Istanbul, Türkiye
+
+  ],
+  [
+    Nov 2023 – Nov 2025
+
+  ],
+  degree-column: [
+    #strong[Cert.]
+  ],
+  main-column-second-row: [
+    - Mastered rigorous peer-to-peer software development projects specializing in C programming, UNIX memory management, BASH scripting, and system-level data structures.
+
+  ],
+)
+
+#education-entry(
+  [
+    #strong[Warsaw University Of Technology], Exch. in Electrical Engineering & Electronics and Information Technology -- Warsaw, Poland
 
   ],
   [
@@ -277,7 +298,7 @@ Results-oriented Software Engineer with a solid background in Electrical and Ele
 
   ],
   degree-column: [
-    #strong[BS]
+    #strong[Exch.]
   ],
   main-column-second-row: [
     - Completed 2 semesters focused on control systems and electronics with an academic average of 70\/100.
@@ -287,21 +308,21 @@ Results-oriented Software Engineer with a solid background in Electrical and Ele
 
 == Skills
 
-#strong[Programming Languages:] C\#, JavaScript, TypeScript, Python, C, BASH, PowerShell, SQL
+#strong[Programming Languages:] C\#, TypeScript, JavaScript, Python, C, SQL, BASH, PowerShell
 
-#strong[Web & Mobile:] React, React Native, Next.js, Blazor WebAssembly, HTML5, CSS3, SCSS, Three.js
+#strong[Backend & Architecture:] .NET Core, Entity Framework, Node.js, Express.js, Django, RESTful APIs, GraphQL, Microservices, Onion Architecture
 
-#strong[Frameworks & APIs:] .NET Core, .NET Framework, Entity Framework, Node.js, Express.js, Django, ABP Framework, RESTful APIs
+#strong[Frontend & Mobile:] React, React Native, Next.js, SvelteKit, Blazor WebAssembly, HTML5, CSS3, SCSS
 
-#strong[Databases & Cloud:] MSSQL, PostgreSQL, MySQL, SQLite, MongoDB, Azure Data Studio
+#strong[Databases & DevOps:] MSSQL, PostgreSQL, MySQL, SQLite, Docker, Git, GitHub Actions, WSL, Linux (Ubuntu\/Kali)
 
-#strong[Tools & DevOps:] Git, GitHub, WSL, Visual Studio 2022, VS Code, PLC Automation (ISPsoft, DOPSoft)
+#strong[Industrial Automation:] PLC Programming (ISPsoft, DOPSoft), MQTT, Modbus, Node-RED, n8n, KUKA Robotics
 
 == Certificates
 
   #regular-entry(
   [
-    #strong[#link("https://www.freecodecamp.org/certification/fygen/back-end-development-and-apis")[Backend Development and APIs]]
+    #strong[Backend Development and APIs]
 
   ],
   [
@@ -314,7 +335,7 @@ Results-oriented Software Engineer with a solid background in Electrical and Ele
 
   #regular-entry(
   [
-    #strong[#link("https://www.freecodecamp.org/certification/fygen/relational-database-v8")[Relational Databases]]
+    #strong[Relational Databases]
 
   ],
   [
@@ -327,7 +348,7 @@ Results-oriented Software Engineer with a solid background in Electrical and Ele
 
   #regular-entry(
   [
-    #strong[#link("https://www.freecodecamp.org/certification/fygen/front-end-development-libraries")[Front End Development Libraries]]
+    #strong[Front End Development Libraries]
 
   ],
   [
@@ -340,7 +361,7 @@ Results-oriented Software Engineer with a solid background in Electrical and Ele
 
   #regular-entry(
   [
-    #strong[#link("https://www.freecodecamp.org/certification/fygen/javascript-algorithms-and-data-structures")[JavaScript Algorithms and Data Structures]]
+    #strong[JavaScript Algorithms and Data Structures]
 
   ],
   [
@@ -353,7 +374,7 @@ Results-oriented Software Engineer with a solid background in Electrical and Ele
 
   #regular-entry(
   [
-    #strong[#link("https://www.freecodecamp.org/certification/fygen/responsive-web-design")[Responsive Web Design]]
+    #strong[Responsive Web Design]
 
   ],
   [
@@ -366,7 +387,7 @@ Results-oriented Software Engineer with a solid background in Electrical and Ele
 
   #regular-entry(
   [
-    #strong[#link("https://www.udemy.com/certificate/UC-f09f7667-0bd5-4a78-9df0-1d659ef8785e/")[Python Machine Learning]]
+    #strong[Python Machine Learning]
 
   ],
   [

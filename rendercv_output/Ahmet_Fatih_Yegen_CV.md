@@ -9,7 +9,7 @@
 
 
 # Summary
-Results-oriented Software Engineer with a solid background in Electrical and Electronics Engineering. Proven track record in designing robust .NET Core backends, optimizing databases, and building responsive JavaScript/TypeScript applications (React, React Native, Next.js). Adept at workflow automation, robotics integration, and leveraging LLM APIs to drive operational efficiency and digital transformation.
+Results-oriented Software Engineer with a solid background in Electrical and Electronics Engineering. Proven track record in designing robust .NET Core backends, optimizing relational databases, and building responsive JavaScript/TypeScript applications (React, Next.js, SvelteKit). Adept at workflow automation, industrial robotics integration, and leveraging LLM APIs to drive operational efficiency and digital transformation.
 
 # Experience
 ## **Alpler Ziraat Aletleri A.Ş.**, Software Development Specialist Engineer -- Aydın, Türkiye
@@ -20,7 +20,7 @@ Jan 2026 – present
 
 - Resolved persistent server-side CCTV camera system failures by deploying and configuring the open-source AgentDVR platform, improving surveillance uptime by 40%.
 
-- Designed and implemented local automation tools using Python to streamline factory production monitoring and reporting workflows.
+- Engineered and deployed custom Python automation scripts to streamline factory production monitoring, reducing manual reporting workflows.
 
 
 
@@ -82,18 +82,20 @@ Aug 2018
 
 
 
+# Projects
+## **Advanced Modular IoT & Web Architecture**
+
+Feb 2026 – present
+
+- Architected and deployed modern web platforms utilizing SvelteKit, Next.js, and Drizzle ORM, integrating secure session hydration with Better Auth architectures.
+
+- Engineered production-ready IoT communication layers utilizing MQTT, Modbus, Node-RED, and n8n pipelines to orchestrate real-time hardware data collection.
+
+- Designed modular firmware leveraging C++ for ESP8266/NodeMCU systems, implementing high-precision ADS1115 ADC data processing and OLED diagnostics dashboards.
+
+
+
 # Education
-## **42 Istanbul**, BS in Intensive Software Engineering Curriculum Software Engineering -- Istanbul, Türkiye
-
-**BS**
-
-
-Nov 2023 – Nov 2025
-
-- Mastered rigorous peer-to-peer software development projects specializing in C programming, memory management, BASH scripting, and system-level data structures.
-
-
-
 ## **Pamukkale University**, BS in Electric and Electronics Engineering -- Denizli, Türkiye
 
 **BS**
@@ -107,9 +109,20 @@ Sept 2014 – June 2020
 
 
 
-## **Warsaw University Of Technology**, BS in Erasmus - Electrical Engineering & Electronics and Information Technology -- Warsaw, Poland
+## **42 Istanbul**, Cert. in Intensive Software Engineering Curriculum -- Istanbul, Türkiye
 
-**BS**
+**Cert.**
+
+
+Nov 2023 – Nov 2025
+
+- Mastered rigorous peer-to-peer software development projects specializing in C programming, UNIX memory management, BASH scripting, and system-level data structures.
+
+
+
+## **Warsaw University Of Technology**, Exch. in Electrical Engineering & Electronics and Information Technology -- Warsaw, Poland
+
+**Exch.**
 
 
 2016-09 - 2017-06
@@ -119,48 +132,48 @@ Sept 2014 – June 2020
 
 
 # Skills
-**Programming Languages:** C#, JavaScript, TypeScript, Python, C, BASH, PowerShell, SQL
+**Programming Languages:** C#, TypeScript, JavaScript, Python, C, SQL, BASH, PowerShell
 
-**Web & Mobile:** React, React Native, Next.js, Blazor WebAssembly, HTML5, CSS3, SCSS, Three.js
+**Backend & Architecture:** .NET Core, Entity Framework, Node.js, Express.js, Django, RESTful APIs, GraphQL, Microservices, Onion Architecture
 
-**Frameworks & APIs:** .NET Core, .NET Framework, Entity Framework, Node.js, Express.js, Django, ABP Framework, RESTful APIs
+**Frontend & Mobile:** React, React Native, Next.js, SvelteKit, Blazor WebAssembly, HTML5, CSS3, SCSS
 
-**Databases & Cloud:** MSSQL, PostgreSQL, MySQL, SQLite, MongoDB, Azure Data Studio
+**Databases & DevOps:** MSSQL, PostgreSQL, MySQL, SQLite, Docker, Git, GitHub Actions, WSL, Linux (Ubuntu/Kali)
 
-**Tools & DevOps:** Git, GitHub, WSL, Visual Studio 2022, VS Code, PLC Automation (ISPsoft, DOPSoft)
+**Industrial Automation:** PLC Programming (ISPsoft, DOPSoft), MQTT, Modbus, Node-RED, n8n, KUKA Robotics
 
 # Certificates
-## **[Backend Development and APIs](https://www.freecodecamp.org/certification/fygen/back-end-development-and-apis)**
+## **Backend Development and APIs**
 
 FreeCodeCamp Certification
 
 
 
-## **[Relational Databases](https://www.freecodecamp.org/certification/fygen/relational-database-v8)**
+## **Relational Databases**
 
 FreeCodeCamp Certification
 
 
 
-## **[Front End Development Libraries](https://www.freecodecamp.org/certification/fygen/front-end-development-libraries)**
+## **Front End Development Libraries**
 
 FreeCodeCamp Certification
 
 
 
-## **[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fygen/javascript-algorithms-and-data-structures)**
+## **JavaScript Algorithms and Data Structures**
 
 FreeCodeCamp Certification
 
 
 
-## **[Responsive Web Design](https://www.freecodecamp.org/certification/fygen/responsive-web-design)**
+## **Responsive Web Design**
 
 FreeCodeCamp Certification
 
 
 
-## **[Python Machine Learning](https://www.udemy.com/certificate/UC-f09f7667-0bd5-4a78-9df0-1d659ef8785e/)**
+## **Python Machine Learning**
 
 Udemy Certification
 
