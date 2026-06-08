@@ -1,0 +1,124 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+cv:
+  name: Ahmet Fatih Yegen
+  headline: Software Engineer
+  location: Istanbul, Türkiye
+  email: fatihyegen.09@gmail.com
+  photo: ./blacksuit.png
+  phone: "+905050340009"
+  website: https://fygen.github.io/
+  social_networks:
+    - network: LinkedIn
+      username: fatihyegen
+    - network: GitHub
+      username: fygen
+  sections:
+    summary:
+      - "Software Engineer with a foundation in Electrical and Electronics Engineering. Experienced in .NET Core/Framework and the JavaScript ecosystem (React, React Native, Next.js). Passionate about LLM APIs, Robotics, and utilizing technology to improve daily lives. Proven track record of developing full-stack applications, designing robust databases, and automating development workflows."
+
+    experience:
+      - company: Alpler Ziraat Aletleri A.Ş.
+        position: Software Development Specialist Engineer
+        location: Aydın, Türkiye
+        start_date: 2025-01
+        end_date: present
+        highlights:
+          - "3 years old Kuka Robot came back to life. With documents I reach."
+          - "Camera system problems solved with new Open Source Programs AgentDVR that I installed to the server."
+      
+      - company: Sürat Kargo
+        position: Software Development Specialist
+        location: Istanbul, Türkiye
+        start_date: 2023-06
+        end_date: 2025-01
+        highlights:
+          - "Designed, developed, and maintained .NET-based web applications leveraging N Architecture, Onion Architecture, and MVC Razor pages."
+          - "Optimized data access and database management using Entity Framework, writing secure and effective SQL queries."
+          - "Developed and updated frontend components using React ABP, significantly improving the UI of HR and cargo point summaries."
+          - "Integrated barcode scanning functionalities into React Native applications for Datamatrix and traditional barcodes."
+          - "Automated the addition of old projects to Git repositories using PowerShell and streamlined EPL barcode processing via WSL Bash."
+
+      - company: Alpler Ziraat Aletleri A.Ş.
+        position: Automation and Maintenance Development Engineer
+        location: Aydın, Türkiye
+        start_date: 2022-01
+        end_date: 2022-11
+        highlights:
+          - "Developed automation projects utilizing ISPsoft, WPLsoft, and DOPSoft platforms."
+          - "Created and managed electronics diagrams, P&ID (Pipe and Instrumentation diagrams), and electrical schematics."
+          - "Conducted advanced industrial repairs and maintained operational automation lines."
+
+      - company: Uğur Deep Freezers I.C.
+        position: Engineer Intern
+        location: Aydın, Türkiye
+        date: 2019-08
+
+      - company: HAUS Centrifuge Technologies
+        position: ARGE Research Intern
+        location: Aydın, Türkiye
+        date: 2018-08
+
+    education:
+      - institution: 42 Istanbul
+        area: Software Engineering
+        degree: Student
+        start_date: 2023-11
+        end_date: 2025-11
+        location: Istanbul, Türkiye
+        highlights:
+          - "Specializing in C programming, BASH scripting, and core 42 curriculum projects."
+
+      - institution: Pamukkale University
+        area: Electric and Electronics Engineering
+        degree: BS
+        start_date: 2014-09
+        end_date: 2020-06
+        location: Denizli, Türkiye
+        highlights:
+          - "Academic Average: 3.14/4.00"
+          - "Completed a semi-supervised machine learning project as part of Optimization Techniques."
+
+      - institution: Warsaw University Of Technology
+        area: Electrical Engineering & Electronics and Information Technology
+        degree: Erasmus
+        date: 2016-09 - 2017-06
+        location: Warsaw, Poland
+        highlights:
+          - "GPA: 70/100 across 2 semesters."
+
+    skills:
+      - label: Programming Languages
+        details: C#, JavaScript, TypeScript, Python, C, BASH, PowerShell
+      - label: Web & Mobile
+        details: React, React Native, Next.js, Blazor WebAssembly, HTML/CSS, SCSS, Three.js
+      - label: Frameworks & APIs
+        details: .NET Core/Framework, Entity Framework, Node.js, Express.js, Django, ABP Framework
+      - label: Databases
+        details: MSSQL, PostgreSQL, MySQL, SQLite, MongoDB
+      - label: Tools
+        details: Git, GitHub, WSL, Visual Studio 2022, VS Code, Azure Data Studio
+
+    certificates:
+      - name: "[Backend Development and APIs](https://www.freecodecamp.org/certification/fygen/back-end-development-and-apis)"
+        summary: FreeCodeCamp Certification
+      - name: "[Relational Databases](https://www.freecodecamp.org/certification/fygen/relational-database-v8)"
+        summary: FreeCodeCamp Certification
+      - name: "[Front End Development Libraries](https://www.freecodecamp.org/certification/fygen/front-end-development-libraries)"
+        summary: FreeCodeCamp Certification
+      - name: "[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fygen/javascript-algorithms-and-data-structures)"
+        summary: FreeCodeCamp Certification
+      - name: "[Responsive Web Design](https://www.freecodecamp.org/certification/fygen/responsive-web-design)"
+        summary: FreeCodeCamp Certification
+      - name: "[Python Machine Learning](https://www.udemy.com/certificate/UC-f09f7667-0bd5-4a78-9df0-1d659ef8785e/)"
+        summary: Udemy Certification
+
+design:
+  theme: harvard
+  header:
+    photo_width: 3.5cm
+locale:
+  language: english
+settings:
+  current_date: today
+  render_command:
+    output_folder: rendercv_output

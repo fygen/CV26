@@ -1,0 +1,141 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+cv:
+  name: Ahmet Fatih Yegen
+  headline: Software Engineer | .NET & Full-Stack Developer
+  location: Istanbul, Türkiye
+  email: fatihyegen.09@gmail.com
+  photo: ./blacksuit.png
+  phone: "+905050340009"
+  website: https://fygen.github.io/
+  social_networks:
+    - network: LinkedIn
+      username: fatihyegen
+    - network: GitHub
+      username: fygen
+  sections:
+    summary:
+      - "Results-oriented Software Engineer with a solid background in Electrical and Electronics Engineering. Proven track record in designing robust .NET Core backends, optimizing databases, and building responsive JavaScript/TypeScript applications (React, React Native, Next.js). Adept at workflow automation, robotics integration, and leveraging LLM APIs to drive operational efficiency and digital transformation."
+
+    experience:
+      - company: Alpler Ziraat Aletleri A.Ş.
+        position: Software Development Specialist Engineer
+        location: Aydın, Türkiye
+        start_date: 2025-01
+        end_date: present
+        highlights:
+          - "Revitalized and reprogrammed an idle 3-axis KUKA industrial robot by analyzing legacy technical documentation, restoring its manufacturing operational capacity."
+          - "Resolved persistent server-side CCTV camera system failures by deploying and configuring the open-source AgentDVR platform, improving surveillance uptime by 40%."
+          - "Designed and implemented local automation tools using Python to streamline factory production monitoring and reporting workflows."
+      
+      - company: Akasya Teknoloji̇ ve Bi̇li̇şim A.Ş.
+        position: Software Development Specialist
+        location: Istanbul, Türkiye
+        start_date: 2025-09
+        end_date: 2025-10
+        highlights:
+          - "Architected and maintained scalable .NET enterprise web applications using N-Tier, Onion Architecture, and MVC Razor Pages, cutting system latency by 20%."
+          - "Optimized data access layers and complex relational database schemas with Entity Framework and MSSQL, reducing slow-running query execution times by 35%."
+          - "Engineered frontend components using React and ABP Framework, enhancing user interface responsiveness for critical HR and cargo point summary modules."
+          - "Integrated high-performance 1D/2D Datamatrix barcode scanning modules into React Native mobile applications, boosting warehouse processing speeds by 25%."
+          - "Automated legacy project migrations to Git repositories using custom PowerShell scripts and accelerated EPL barcode processing pipelines via WSL Bash workflows."
+
+      - company: Port Kargo Ve Loji̇sti̇k A.Ş.
+        position: Software Development Specialist
+        location: Istanbul, Türkiye
+        start_date: 2023-09
+        end_date: 2025-01
+        highlights:
+          - "Architected and maintained scalable .NET enterprise web applications using N-Tier, Onion Architecture, and MVC Razor Pages, cutting system latency by 20%."
+          - "Optimized data access layers and complex relational database schemas with Entity Framework and MSSQL, reducing slow-running query execution times by 35%."
+          - "Engineered frontend components using React and ABP Framework, enhancing user interface responsiveness for critical HR and cargo point summary modules."
+          - "Integrated high-performance 1D/2D Datamatrix barcode scanning modules into React Native mobile applications, boosting warehouse processing speeds by 25%."
+          - "Automated legacy project migrations to Git repositories using custom PowerShell scripts and accelerated EPL barcode processing pipelines via WSL Bash workflows."
+
+      - company: Alpler Ziraat Aletleri A.Ş.
+        position: Automation and Maintenance Development Engineer
+        location: Aydın, Türkiye
+        start_date: 2023-08
+        end_date: 2023-01
+        highlights:
+          - "Programmed industrial PLC and HMI automation systems utilizing ISPsoft, WPLsoft, and DOPSoft platforms for heavy machinery."
+          - "Drafted and evaluated complex electrical schematics, Piping and Instrumentation Diagrams (P&ID), and electronic circuit blueprints."
+          - "Executed advanced diagnostics and preventative maintenance on automated production lines, reducing operational downtime by 15%."
+
+      - company: Uğur Deep Freezers I.C.
+        position: Engineer Intern
+        location: Aydın, Türkiye
+        date: 2019-08
+        highlights:
+          - "Assisted the automation team in PLC troubleshooting and observed assembly line optimization techniques."
+
+      - company: HAUS Centrifuge Technologies
+        position: ARGE Research Intern
+        location: Aydın, Türkiye
+        date: 2018-08
+        highlights:
+          - "Contributed to R&D documentation and analyzed industrial centrifuge performance metrics."
+
+    education:
+      - institution: 42 Istanbul
+        area: Intensive Software Engineering Curriculum Software Engineering
+        degree: BS
+        start_date: 2023-11
+        end_date: 2025-11
+        location: Istanbul, Türkiye
+        highlights:
+          - "Mastered rigorous peer-to-peer software development projects specializing in C programming, memory management, BASH scripting, and system-level data structures."
+
+      - institution: Pamukkale University
+        area: Electric and Electronics Engineering
+        degree: BS
+        start_date: 2014-09
+        end_date: 2020-06
+        location: Denizli, Türkiye
+        highlights:
+          - "GPA: 3.14/4.00"
+          - "Developed a semi-supervised machine learning model utilizing Advanced Optimization Techniques for predictive data analysis."
+
+      - institution: Warsaw University Of Technology
+        area: Erasmus - Electrical Engineering & Electronics and Information Technology
+        degree: BS
+        date: 2016-09 - 2017-06
+        location: Warsaw, Poland
+        highlights:
+          - "Completed 2 semesters focused on control systems and electronics with an academic average of 70/100."
+
+    skills:
+      - label: Programming Languages
+        details: C#, JavaScript, TypeScript, Python, C, BASH, PowerShell, SQL
+      - label: Web & Mobile
+        details: React, React Native, Next.js, Blazor WebAssembly, HTML5, CSS3, SCSS, Three.js
+      - label: Frameworks & APIs
+        details: .NET Core, .NET Framework, Entity Framework, Node.js, Express.js, Django, ABP Framework, RESTful APIs
+      - label: Databases & Cloud
+        details: MSSQL, PostgreSQL, MySQL, SQLite, MongoDB, Azure Data Studio
+      - label: Tools & DevOps
+        details: Git, GitHub, WSL, Visual Studio 2022, VS Code, PLC Automation (ISPsoft, DOPSoft)
+
+    certificates:
+      - name: "[Backend Development and APIs](https://www.freecodecamp.org/certification/fygen/back-end-development-and-apis)"
+        summary: FreeCodeCamp Certification
+      - name: "[Relational Databases](https://www.freecodecamp.org/certification/fygen/relational-database-v8)"
+        summary: FreeCodeCamp Certification
+      - name: "[Front End Development Libraries](https://www.freecodecamp.org/certification/fygen/front-end-development-libraries)"
+        summary: FreeCodeCamp Certification
+      - name: "[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fygen/javascript-algorithms-and-data-structures)"
+        summary: FreeCodeCamp Certification
+      - name: "[Responsive Web Design](https://www.freecodecamp.org/certification/fygen/responsive-web-design)"
+        summary: FreeCodeCamp Certification
+      - name: "[Python Machine Learning](https://www.udemy.com/certificate/UC-f09f7667-0bd5-4a78-9df0-1d659ef8785e/)"
+        summary: Udemy Certification
+
+design:
+  theme: harvard
+  header:
+    photo_width: 3.5cm
+locale:
+  language: english
+settings:
+  current_date: today
+  render_command:
+    output_folder: rendercv_output
