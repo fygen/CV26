@@ -20,7 +20,7 @@ cv:
       - company: Alpler Ziraat Aletleri A.Ş.
         position: Software Development Specialist Engineer
         location: Aydın, Türkiye
-        start_date: 2025-01
+        start_date: 2026-01
         end_date: present
         highlights:
           - "Revitalized and reprogrammed an idle 3-axis KUKA industrial robot by analyzing legacy technical documentation, restoring its manufacturing operational capacity."
@@ -29,15 +29,14 @@ cv:
       
       - company: Akasya Teknoloji̇ ve Bi̇li̇şim A.Ş.
         position: Software Development Specialist
-        location: Istanbul, Türkiye
+        location: 'Istanbul, Türkiye'
         start_date: 2025-09
         end_date: 2025-10
         highlights:
-          - "Architected and maintained scalable .NET enterprise web applications using N-Tier, Onion Architecture, and MVC Razor Pages, cutting system latency by 20%."
-          - "Optimized data access layers and complex relational database schemas with Entity Framework and MSSQL, reducing slow-running query execution times by 35%."
-          - "Engineered frontend components using React and ABP Framework, enhancing user interface responsiveness for critical HR and cargo point summary modules."
-          - "Integrated high-performance 1D/2D Datamatrix barcode scanning modules into React Native mobile applications, boosting warehouse processing speeds by 25%."
-          - "Automated legacy project migrations to Git repositories using custom PowerShell scripts and accelerated EPL barcode processing pipelines via WSL Bash workflows."
+          - "Re-architected the eduvence.com home page and core landing interfaces, optimizing multi-device layouts to improve overall layout rendering and initial load speeds."
+          - "Developed and injected custom React modules into predefined user profile slots utilizing the Open edX Frontend Plugin Framework, decoupling legacy UI code into a modular architecture."
+          - "Synchronized decoupled micro-frontend (MFE) profile views with underlying Django REST Framework and GraphQL API endpoints, ensuring seamless cross-domain data streaming and user state hydration."
+          - "Streamlined platform deployment workflows by authoring custom Tutor plugins to automate Docker container compilation, MFE image building, and production orchestration pipelines."
 
       - company: Port Kargo Ve Loji̇sti̇k A.Ş.
         position: Software Development Specialist
@@ -54,8 +53,8 @@ cv:
       - company: Alpler Ziraat Aletleri A.Ş.
         position: Automation and Maintenance Development Engineer
         location: Aydın, Türkiye
-        start_date: 2023-08
-        end_date: 2023-01
+        start_date: 2023-01
+        end_date: 2023-08
         highlights:
           - "Programmed industrial PLC and HMI automation systems utilizing ISPsoft, WPLsoft, and DOPSoft platforms for heavy machinery."
           - "Drafted and evaluated complex electrical schematics, Piping and Instrumentation Diagrams (P&ID), and electronic circuit blueprints."

@@ -14,7 +14,7 @@ Results-oriented Software Engineer with a solid background in Electrical and Ele
 # Experience
 ## **Alpler Ziraat Aletleri A.Ş.**, Software Development Specialist Engineer -- Aydın, Türkiye
 
-Jan 2025 – present
+Jan 2026 – present
 
 - Revitalized and reprogrammed an idle 3-axis KUKA industrial robot by analyzing legacy technical documentation, restoring its manufacturing operational capacity.
 
@@ -24,9 +24,23 @@ Jan 2025 – present
 
 
 
-## **Sürat Kargo**, Software Development Specialist -- Istanbul, Türkiye
+## **Akasya Teknoloji̇ ve Bi̇li̇şim A.Ş.**, Software Development Specialist -- Istanbul, Türkiye
 
-June 2023 – Jan 2025
+Sept 2025 – Oct 2025
+
+- Re-architected the eduvence.com home page and core landing interfaces, optimizing multi-device layouts to improve overall layout rendering and initial load speeds.
+
+- Developed and injected custom React modules into predefined user profile slots utilizing the Open edX Frontend Plugin Framework, decoupling legacy UI code into a modular architecture.
+
+- Synchronized decoupled micro-frontend (MFE) profile views with underlying Django REST Framework and GraphQL API endpoints, ensuring seamless cross-domain data streaming and user state hydration.
+
+- Streamlined platform deployment workflows by authoring custom Tutor plugins to automate Docker container compilation, MFE image building, and production orchestration pipelines.
+
+
+
+## **Port Kargo Ve Loji̇sti̇k A.Ş.**, Software Development Specialist -- Istanbul, Türkiye
+
+Sept 2023 – Jan 2025
 
 - Architected and maintained scalable .NET enterprise web applications using N-Tier, Onion Architecture, and MVC Razor Pages, cutting system latency by 20%.
 
@@ -42,7 +56,7 @@ June 2023 – Jan 2025
 
 ## **Alpler Ziraat Aletleri A.Ş.**, Automation and Maintenance Development Engineer -- Aydın, Türkiye
 
-Jan 2022 – Nov 2022
+Jan 2023 – Aug 2023
 
 - Programmed industrial PLC and HMI automation systems utilizing ISPsoft, WPLsoft, and DOPSoft platforms for heavy machinery.
 

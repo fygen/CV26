@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 6,
-    day: 4,
+    day: 8,
   ),
 )
 
@@ -121,7 +121,7 @@ Results-oriented Software Engineer with a solid background in Electrical and Ele
 
   ],
   [
-    Jan 2025 – present
+    Jan 2026 – present
 
   ],
   main-column-second-row: [
@@ -136,11 +136,32 @@ Results-oriented Software Engineer with a solid background in Electrical and Ele
 
 #regular-entry(
   [
-    #strong[Sürat Kargo], Software Development Specialist -- Istanbul, Türkiye
+    #strong[Akasya Teknoloji̇ ve Bi̇li̇şim A.Ş.], Software Development Specialist -- Istanbul, Türkiye
 
   ],
   [
-    June 2023 – Jan 2025
+    Sept 2025 – Oct 2025
+
+  ],
+  main-column-second-row: [
+    - Re-architected the eduvence.com home page and core landing interfaces, optimizing multi-device layouts to improve overall layout rendering and initial load speeds.
+
+    - Developed and injected custom React modules into predefined user profile slots utilizing the Open edX Frontend Plugin Framework, decoupling legacy UI code into a modular architecture.
+
+    - Synchronized decoupled micro-frontend (MFE) profile views with underlying Django REST Framework and GraphQL API endpoints, ensuring seamless cross-domain data streaming and user state hydration.
+
+    - Streamlined platform deployment workflows by authoring custom Tutor plugins to automate Docker container compilation, MFE image building, and production orchestration pipelines.
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Port Kargo Ve Loji̇sti̇k A.Ş.], Software Development Specialist -- Istanbul, Türkiye
+
+  ],
+  [
+    Sept 2023 – Jan 2025
 
   ],
   main-column-second-row: [
@@ -163,7 +184,7 @@ Results-oriented Software Engineer with a solid background in Electrical and Ele
 
   ],
   [
-    Jan 2022 – Nov 2022
+    Jan 2023 – Aug 2023
 
   ],
   main-column-second-row: [
