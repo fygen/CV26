@@ -146,4 +146,4 @@ locale:
 settings:
   current_date: today
   render_command:
-    output_folder: rendercv_output
+    output_folder: allexperience_tr
