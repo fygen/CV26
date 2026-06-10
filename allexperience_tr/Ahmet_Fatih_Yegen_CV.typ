@@ -256,7 +256,7 @@ Elektrik-Elektronik Mühendisliği kökenli, çözüm ve sonuç odaklı Yazılı
 
   ],
   [
-    Eyl 2014 – Haz 2020
+    Eyl 2014 – Ara 2019
 
   ],
   degree-column: [

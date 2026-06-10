@@ -221,7 +221,7 @@ Elektrik-Elektronik Mühendisliği altyapısına ve 42 İstanbul'un zorlu C\/C++
 
   ],
   [
-    Eyl 2014 – Haz 2020
+    Eyl 2014 – Ara 2019
 
   ],
   degree-column: [

@@ -80,7 +80,7 @@ Nov 2023 – Nov 2025
 **BS**
 
 
-Sept 2014 – June 2020
+Sept 2014 – Dec 2019
 
 
 

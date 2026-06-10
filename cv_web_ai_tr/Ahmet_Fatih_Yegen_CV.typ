@@ -221,7 +221,7 @@ Modern web mimarileri ve iş akışı otomasyonları konusunda uzmanlaşmış, s
 
   ],
   [
-    Eyl 2014 – Haz 2020
+    Eyl 2014 – Ara 2019
 
   ],
   degree-column: [

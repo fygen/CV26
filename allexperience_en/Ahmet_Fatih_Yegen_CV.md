@@ -101,7 +101,7 @@ Feb 2026 – present
 **BS**
 
 
-Sept 2014 – June 2020
+Sept 2014 – Dec 2019
 
 - GPA: 3.14/4.00
 

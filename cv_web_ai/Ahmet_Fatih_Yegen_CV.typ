@@ -221,7 +221,7 @@ Results-oriented Software Engineer specializing in modern web architectures and 
 
   ],
   [
-    Sept 2014 – June 2020
+    Sept 2014 – Dec 2019
 
   ],
   degree-column: [

@@ -256,7 +256,7 @@ Results-oriented Software Engineer with a solid background in Electrical and Ele
 
   ],
   [
-    Sept 2014 – June 2020
+    Sept 2014 – Dec 2019
 
   ],
   degree-column: [

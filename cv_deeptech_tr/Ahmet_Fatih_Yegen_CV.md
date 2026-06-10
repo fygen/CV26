@@ -80,7 +80,7 @@ Kas 2023 – Kas 2025
 **Lisans**
 
 
-Eyl 2014 – Haz 2020
+Eyl 2014 – Ara 2019
 
 - Öngörücü veri analizi için Gelişmiş Optimizasyon Tekniklerini kullanan yarı denetimli bir yapay öğrenme modeli geliştirdi.
 

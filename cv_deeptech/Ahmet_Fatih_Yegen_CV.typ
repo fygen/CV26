@@ -221,7 +221,7 @@ Multidisciplinary Software Engineer with a BS in Electrical and Electronics Engi
 
   ],
   [
-    Sept 2014 – June 2020
+    Sept 2014 – Dec 2019
 
   ],
   degree-column: [
