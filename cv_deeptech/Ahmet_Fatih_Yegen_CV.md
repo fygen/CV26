@@ -98,7 +98,7 @@ Sept 2014 – June 2020
 # Skills
 **Systems & Low-Level:** C, C++, Python, BASH, PowerShell, UNIX/Linux (Ubuntu, Kali, Distrobox)
 
-**Robotics & Automation:** ROS, Gazebo, KUKA Robotics, PLC Programming (ISPsoft), P&ID
+**Robotics & Automation:** OpenCV, deepface, yolov8, KUKA Robotics, PLC Programming (ISPsoft), P&ID
 
 **Embedded & Hardware:** ESP32/NodeMCU, ADS1115, I2C, MQTT, Modbus, Custom PCB Layouts, Circuit Diagnostics
 

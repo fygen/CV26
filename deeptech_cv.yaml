@@ -86,7 +86,7 @@ cv:
       - label: Systems & Low-Level
         details: C, C++, Python, BASH, PowerShell, UNIX/Linux (Ubuntu, Kali, Distrobox)
       - label: Robotics & Automation
-        details: ROS, Gazebo, KUKA Robotics, PLC Programming (ISPsoft), P&ID
+        details: OpenCV, deepface, yolov8, KUKA Robotics, PLC Programming (ISPsoft), P&ID
       - label: Embedded & Hardware
         details: ESP32/NodeMCU, ADS1115, I2C, MQTT, Modbus, Custom PCB Layouts, Circuit Diagnostics
       - label: Backend Architecture

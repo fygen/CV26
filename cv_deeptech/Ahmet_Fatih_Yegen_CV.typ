@@ -253,7 +253,7 @@ Multidisciplinary Software Engineer with a BS in Electrical and Electronics Engi
 
 #strong[Systems & Low-Level:] C, C++, Python, BASH, PowerShell, UNIX\/Linux (Ubuntu, Kali, Distrobox)
 
-#strong[Robotics & Automation:] ROS, Gazebo, KUKA Robotics, PLC Programming (ISPsoft), P&ID
+#strong[Robotics & Automation:] OpenCV, deepface, yolov8, KUKA Robotics, PLC Programming (ISPsoft), P&ID
 
 #strong[Embedded & Hardware:] ESP32\/NodeMCU, ADS1115, I2C, MQTT, Modbus, Custom PCB Layouts, Circuit Diagnostics
 

@@ -98,7 +98,7 @@ Eyl 2014 – Haz 2020
 # Skills
 **Sistemler & Düşük Seviye:** C, C++, Python, BASH, PowerShell, UNIX/Linux (Ubuntu, Kali, Distrobox)
 
-**Robotik & Otomasyon:** ROS, Gazebo, KUKA Robotics, PLC Programlama (ISPsoft), P&ID
+**Robotik & Otomasyon:** OpenCV, deepface, yolov8, KUKA Robotics, PLC Programlama (ISPsoft), P&ID
 
 **Gömülü Sistemler & Donanım:** ESP32/NodeMCU, ADS1115, I2C, MQTT, Modbus, Özel PCB Tasarımı, Devre Analizi
 

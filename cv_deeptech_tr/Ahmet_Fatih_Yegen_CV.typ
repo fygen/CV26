@@ -253,7 +253,7 @@ Elektrik-Elektronik Mühendisliği altyapısına ve 42 İstanbul'un zorlu C\/C++
 
 #strong[Sistemler & Düşük Seviye:] C, C++, Python, BASH, PowerShell, UNIX\/Linux (Ubuntu, Kali, Distrobox)
 
-#strong[Robotik & Otomasyon:] ROS, Gazebo, KUKA Robotics, PLC Programlama (ISPsoft), P&ID
+#strong[Robotik & Otomasyon:] OpenCV, deepface, yolov8, KUKA Robotics, PLC Programlama (ISPsoft), P&ID
 
 #strong[Gömülü Sistemler & Donanım:] ESP32\/NodeMCU, ADS1115, I2C, MQTT, Modbus, Özel PCB Tasarımı, Devre Analizi
 
