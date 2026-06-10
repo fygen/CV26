@@ -1,0 +1,104 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+cv:
+  name: Ahmet Fatih Yegen
+  headline: Software Engineer | Embedded Systems, Robotics & Autonomous Systems
+  location: Istanbul, Türkiye
+  email: fatihyegen.09@gmail.com
+  photo: ./blacksuit.png
+  phone: "+905050340009"
+  website: https://fygen.github.io/
+  social_networks:
+    - network: LinkedIn
+      username: fatihyegen
+    - network: GitHub
+      username: fygen
+  sections:
+    summary:
+      - "Multidisciplinary Software Engineer with a BS in Electrical and Electronics Engineering and intensive C/C++ training from 42 Istanbul. Specialized in embedded systems, industrial robotics integration, and complex Linux environments. Expert in reverse-engineering legacy hardware, structuring Robot Operating System (ROS) frameworks, and designing custom microcontroller platforms (ESP32) utilizing high-precision ADCs and IoT protocols."
+
+    experience:
+      - company: Alpler Ziraat Aletleri A.Ş.
+        position: Software Development Specialist Engineer
+        location: Aydın, Türkiye
+        start_date: 2026-01
+        end_date: present
+        highlights:
+          - "Revitalized and reprogrammed an idle 3-axis KUKA KR210 industrial robot, diagnosing Interbus and servo drive communications to restore operational capacity."
+          - "Designed a comprehensive server-side integration utilizing Robot Operating System (ROS) nodes, Gazebo simulations, and camera arrays for autonomous collision-evasion tracking."
+          - "Structured external server-side Python/C++ frameworks to safely handle machine vision processing and real-time trajectory data over network sockets."
+          - "Maintained multi-boot development setups (Ubuntu/Kali) and deployed custom NMCLI network split-routing policies to manage local camera subnets simultaneously with global traffic."
+      
+      - company: Alpler Ziraat Aletleri A.Ş.
+        position: Automation and Maintenance Development Engineer
+        location: Aydın, Türkiye
+        start_date: 2023-01
+        end_date: 2023-08
+        highlights:
+          - "Programmed industrial PLC and HMI automation systems utilizing ISPsoft, WPLsoft, and DOPSoft platforms for heavy machinery."
+          - "Drafted and evaluated complex electrical schematics, Piping and Instrumentation Diagrams (P&ID), and electronic circuit blueprints."
+          - "Executed advanced diagnostics on automated production lines, reducing operational downtime by 15% through preventative logic adjustments."
+
+      - company: Port Kargo Ve Loji̇sti̇k A.Ş.
+        position: Software Development Specialist
+        location: Istanbul, Türkiye
+        start_date: 2023-09
+        end_date: 2025-01
+        highlights:
+          - "Integrated high-performance 1D/2D Datamatrix barcode scanning modules into mobile applications, boosting warehouse hardware processing speeds by 25%."
+          - "Automated legacy project migrations to Git repositories using custom PowerShell scripts and accelerated EPL barcode processing pipelines via WSL Bash."
+          - "Architected backend logistics infrastructure utilizing .NET Core, N-Tier, and Onion Architecture to manage high-throughput database traffic."
+
+    projects:
+      - name: Custom Microcontroller Battery Telemetry Platform
+        start_date: 2026-03
+        end_date: present
+        highlights:
+          - "Engineered a modular DC internal resistance (IR) testing device centered around ESP8266/ESP32 architectures with a 4-wire Kelvin connection differential topology."
+          - "Designed automated voltage attenuation networks to scale inputs up to 100V DC, isolating control circuitry via optocouplers and utilizing an external ADS1115 16-bit ADC."
+          - "Authored type-safe C++ template dispatchers, custom LittleFS file schemas, and global struct variables to link diagnostics displays securely with Wi-Fi logs."
+
+    education:
+      - institution: 42 Istanbul
+        area: Intensive Software Engineering Curriculum
+        degree: Cert.
+        start_date: 2023-11
+        end_date: 2025-11
+        location: Istanbul, Türkiye
+        highlights:
+          - "Mastered rigorous peer-to-peer software development projects specializing in C/C++ programming, UNIX memory management, low-level architecture, and BASH scripting."
+
+      - institution: Pamukkale University
+        area: Electric and Electronics Engineering
+        degree: BS
+        start_date: 2014-09
+        end_date: 2020-06
+        location: Denizli, Türkiye
+        highlights:
+          - "Developed a semi-supervised machine learning model utilizing Advanced Optimization Techniques for predictive data analysis."
+
+      - institution: Warsaw University Of Technology
+        area: Electrical Engineering & Electronics and Information Technology
+        degree: Exch.
+        date: 2016-09 - 2017-06
+        location: Warsaw, Poland
+
+    skills:
+      - label: Systems & Low-Level
+        details: C, C++, Python, BASH, PowerShell, UNIX/Linux (Ubuntu, Kali, Distrobox)
+      - label: Robotics & Automation
+        details: ROS, Gazebo, KUKA Robotics, PLC Programming (ISPsoft), P&ID
+      - label: Embedded & Hardware
+        details: ESP32/NodeMCU, ADS1115, I2C, MQTT, Modbus, Custom PCB Layouts, Circuit Diagnostics
+      - label: Backend Architecture
+        details: .NET Core, SQL, RESTful APIs, Docker, Git, WSL, Microservices
+
+design:
+  theme: harvard
+  header:
+    photo_width: 3.5cm
+locale:
+  language: english
+settings:
+  current_date: today
+  render_command:
+    output_folder: cv_deeptech

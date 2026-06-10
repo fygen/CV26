@@ -1,0 +1,96 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+cv:
+  name: Ahmet Fatih Yegen
+  headline: Software Engineer | AI Automation & Modern Full-Stack Developer
+  location: Istanbul, Türkiye
+  email: fatihyegen.09@gmail.com
+  photo: ./blacksuit.png
+  phone: "+905050340009"
+  website: https://fygen.github.io/
+  social_networks:
+    - network: LinkedIn
+      username: fatihyegen
+    - network: GitHub
+      username: fygen
+  sections:
+    summary:
+      - "Results-oriented Software Engineer specializing in modern web architectures and workflow automation. Proven track record in building responsive Next.js and SvelteKit applications, developing decoupled Micro-Frontend (MFE) architectures, and deploying custom Python/Node.js automation scripts. Passionate about leveraging LLM APIs, n8n, and dynamic JavaScript/TypeScript stacks to drive operational efficiency in fast-paced startup environments."
+
+    experience:
+      - company: Alpler Ziraat Aletleri A.Ş.
+        position: Software Development Specialist Engineer
+        location: Aydın, Türkiye
+        start_date: 2026-01
+        end_date: present
+        highlights:
+          - "Engineered and deployed custom Python data automation scripts and automated web crawlers to streamline factory production monitoring, significantly reducing manual reporting workflows."
+          - "Resolved persistent server-side CCTV camera system failures by deploying and configuring the open-source AgentDVR platform, improving surveillance uptime by 40%."
+          - "Integrated Python and C++ backend frameworks to process real-time machine vision tracking and autonomous pathing algorithms over network sockets."
+      
+      - company: Akasya Teknoloji̇ ve Bi̇li̇şim A.Ş.
+        position: Software Development Specialist
+        location: 'Istanbul, Türkiye'
+        start_date: 2025-09
+        end_date: 2025-10
+        highlights:
+          - "Synchronized decoupled micro-frontend (MFE) profile views with Django REST Framework and GraphQL API endpoints, ensuring seamless cross-domain data streaming and hydration."
+          - "Developed and injected custom React modules into predefined user profile slots utilizing the Open edX Frontend Plugin Framework, decoupling legacy UI code."
+          - "Re-architected the eduvence.com home page and core landing interfaces, optimizing multi-device layouts to improve initial load speeds."
+          - "Streamlined platform deployment workflows by authoring custom plugins to automate Docker container compilation and production orchestration pipelines."
+
+      - company: Port Kargo Ve Loji̇sti̇k A.Ş.
+        position: Software Development Specialist
+        location: Istanbul, Türkiye
+        start_date: 2023-09
+        end_date: 2025-01
+        highlights:
+          - "Architected scalable enterprise web applications using .NET Core, Next.js, and SvelteKit architectures, cutting system latency by 20%."
+          - "Engineered frontend components using React and TypeScript, enhancing user interface responsiveness for critical HR and logistics modules."
+          - "Automated legacy project migrations to Git repositories using custom PowerShell scripts and accelerated processing pipelines via WSL Bash workflows."
+
+    projects:
+      - name: Advanced Modular Web & AI Automation Architecture
+        start_date: 2026-02
+        end_date: present
+        highlights:
+          - "Architected modern web platforms utilizing SvelteKit, Next.js, and Drizzle ORM, integrating secure session hydration with Better Auth architectures."
+          - "Engineered production-ready IoT and automation layers utilizing n8n, Node-RED, and MQTT pipelines to orchestrate real-time data collection and LLM API processing."
+          - "Constructed automated web crawlers in Python designed to execute recursive directory traversal, document download automation, and automated text parsing."
+
+    education:
+      - institution: 42 Istanbul
+        area: Intensive Software Engineering Curriculum
+        degree: Cert.
+        start_date: 2023-11
+        end_date: 2025-11
+        location: Istanbul, Türkiye
+        highlights:
+          - "Mastered rigorous peer-to-peer software development specializing in system-level data structures, complex algorithms, and scalable web backend principles."
+
+      - institution: Pamukkale University
+        area: Electric and Electronics Engineering
+        degree: BS
+        start_date: 2014-09
+        end_date: 2020-06
+        location: Denizli, Türkiye
+
+    skills:
+      - label: Core Stack
+        details: TypeScript, JavaScript, Python, C#, SQL, BASH
+      - label: Frontend & Web
+        details: Next.js, SvelteKit, React, Tailwind CSS, HTML5/SCSS, Micro-Frontends
+      - label: Backend & AI Automation
+        details: Node.js, .NET Core, Express.js, n8n, Node-RED, RESTful APIs, GraphQL
+      - label: Database & DevOps
+        details: PostgreSQL, Drizzle ORM, Entity Framework, Docker, GitHub Actions, Linux (Ubuntu)
+
+design:
+  theme: harvard
+  header:
+    photo_width: 3.5cm
+locale:
+  language: english
+settings:
+  current_date: today
+  render_command:
+    output_folder: cv_web_ai
